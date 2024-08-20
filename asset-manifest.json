@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Accuknox_Assignment/static/css/main.e6c13ad2.css",
+    "main.js": "/Accuknox_Assignment/static/js/main.01260c82.js",
+    "static/js/453.c1c2f771.chunk.js": "/Accuknox_Assignment/static/js/453.c1c2f771.chunk.js",
+    "index.html": "/Accuknox_Assignment/index.html",
+    "main.e6c13ad2.css.map": "/Accuknox_Assignment/static/css/main.e6c13ad2.css.map",
+    "main.01260c82.js.map": "/Accuknox_Assignment/static/js/main.01260c82.js.map",
+    "453.c1c2f771.chunk.js.map": "/Accuknox_Assignment/static/js/453.c1c2f771.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.01260c82.js"
+  ]
+}
